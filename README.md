@@ -2,7 +2,7 @@
 ## About
 POC for a simple to use generative framework for Jungle and Drum & Bass built on the Fibonacci number sequence as structural alternative to conventional meters and track build-up, written in Pure Data.
 
-Fibonacci Jungle was awarded 2nd place at [Generative Music Prize 2024](https://forum.ircam.fr/article/detail/winners-of-the-generative-music-prize/), hosted by IRCAM.
+For a detailed description of concept and implementation, see [this paper](./assets/fibonacci-jungle_heinze-2023). There's also a presentation video from [Generative Music Prize 2024](https://forum.ircam.fr/article/detail/winners-of-the-generative-music-prize/), hosted by IRCAM, where Fibonacci Jungle was awarded 2nd place.
 
 ## Requirements and installation
 * Install Pure Data >= 0.54
